@@ -1,0 +1,4 @@
+git init; inicialização do rastreido do repositório
+git add; adiciona os arquivos na área de rastreio
+git status; verificar o status dos arquivos do repositório
+git commit -m "";salva uma versão do projeto
