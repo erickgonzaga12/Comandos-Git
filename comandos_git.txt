@@ -2,3 +2,13 @@ git init; inicialização do rastreido do repositório
 git add; adiciona os arquivos na área de rastreio
 git status; verificar o status dos arquivos do repositório
 git commit -m "";salva uma versão do projeto
+git log;mostro o histórico do commit -m
+git config--global user.name;colocar o nome do usuário 
+git config--global user.email;colocar o endereço de email
+git clone;clonar o repositório
+git branch;visualizar todas as branches
+git branch nome-da-branch;criando uma branch
+git checkout;trocar de branch ou voltar versões do projeto
+git pull;atualizar as if. do repositório local com o conteudos 
+git push;enviar alterações do repositório local para o repositório 
+git merge;mesclar 2 branches
